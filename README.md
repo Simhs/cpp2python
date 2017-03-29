@@ -8,6 +8,5 @@ python-extending
 
 `$ sudo python setup.py install`
 
-python test.py
-
->>> ??
+`python test.py`
+`>>> ??`
